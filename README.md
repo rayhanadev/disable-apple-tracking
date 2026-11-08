@@ -1,4 +1,4 @@
-# mds-bye
+# disable-apple-tracking
 
 Keeps Spotlight, Siri, Photos analysis, and Apple Intelligence disabled on macOS across updates.
 
